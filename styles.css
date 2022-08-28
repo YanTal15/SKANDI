@@ -27,6 +27,7 @@ a{
     margin-left: 10rem;
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .nav>a:nth-child(2){
     margin-right: 9rem;
@@ -145,6 +146,7 @@ h2{
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    transition: 0.3s;
 }
 .box__first>p{
     font-size: 1.8rem;
